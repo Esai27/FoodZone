@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934100660221",
+    "project_id": "foodzone-250b2",
+    "storage_bucket": "foodzone-250b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934100660221:android:41c895ea67ef0ea18ab394",
+        "android_client_info": {
+          "package_name": "com.companyname.foodzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934100660221-sh3i6u4ab626gp7cvdk4ml45m5kg0ocl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYim-HxcSX4Zn-yhm4gztqGFfcF_-Js-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934100660221-32i2151btessken2kvug00gr68dt79ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
